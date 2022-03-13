@@ -1,28 +1,35 @@
-###Poject name
+### PROJECT NAME
+
 Delani Studio
 
-##project description
+## PROJECT DESCRIPTION
 
+ This is a simple project that contains HTML,CSS,JAVASCRIPT AND JQUERY. This site responds through a pop whereby it returns a message.
 
-##Author's information
+## :information_desk_person: AUTHOR'S INFORMATION
 
  Am April wairimu a young growing developer.
 
-##Name of contributors
+## NAME OF CONTRIBUTORS
 
 The project was done as an individual.
 
-###Technologies used
+### :pushpin: TECHNOLOGY USED
 
 The technologies are ;
-HTML
-CSS
-JQUERY
+ :small_blue_diamond: HTML
+ :small_blue_diamond: CSS
+ :small_blue_diamond: JQUERY
+ :small_blue_diamond: JAVASCRIPT
+ :small_blue_diamond: FONT AWESOME ICONS
 
-###link to live the site
+## LINK TO VIEW SITE
 
-#######contact information:
+## :telephone_receiver: CONTANCT INFORMATION
 Find me at wairimuapril@gmail.
 
-########created:
+### CREATED
 2022
+## LICENCE AND COPYRIGHT
+
+MIT Copyright (c) 2019 April Wairimu

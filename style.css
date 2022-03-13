@@ -16,10 +16,12 @@
 }
 .logo{
 padding: 30px;
+margin-top: 20px;
 }
 .h1{
-    padding: 30px;
-    font-size: 40px;
+  
+    font-size: 30px;
+    margin-bottom: 20px;
 }
 .h2{
     margin-top: 60px;
@@ -28,27 +30,44 @@ padding: 30px;
 .p{
 
 }
+.mouse{
+    margin-top: 30px;
+}
 .about{
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     font-size: 15px;
     padding: 30px;
+   
+}
+h1{
+    margin-top: 30px;
+    font-size: 25px;
 }
 .service{
-    background-image: url("/images/Backround/1_img.jpg");
-   height: 100vh;
-   width: 100%;
+    background-image: url("/images/Backround/2_image.jpg"); 
+    m
+}
+.h1{
+    margin-left: 30px;
 }
 .what{
- align-items: center;
+    margin-top: 30px;
+   height: 100vh;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 10px;
 }
 .heading{
     color: black;
-    font-size: 35px;
+    font-size: 15px;
     text-align: center;
-}
+    padding-top: 50px;
+    }
 .column{
     width:33.33%;
     float:left;
@@ -61,9 +80,51 @@ padding: 30px;
     width: auto;
     height: 100px;
 }
+.portfolio{
+    margin-left: 150px;
+    margin-right: 150px;
+    height: auto;
+    width: 100%;
+}
+.h1{
+  font-size: 40px;
+}
 
-
+ .contact{
+    margin-top: 50px;
+    background-image: url("/images/Backround/3-image.jpg");
+    height: 80vh;
+    width: 100%;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+    
+}
+.h1{
+   
+}
  
+ .icons{
+    margin-top: 30px;
+    margin-left: 500px;
+    align-items: center;
+    border-radius: 10px;
+    padding: 60px;
+ }
+.footer{
+    margin-left: 200px;
+    font-size: 10px;
+    margin-top: 20px;
+}
+h1{
+    font-size: 15px;
+}
+h2{
+    font-size: 15px;
+    align-items: center;
+    margin-left: 30px;
+    
+}
 
 
 
