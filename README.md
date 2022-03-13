@@ -1,4 +1,4 @@
-## PROJECT NAME
+## PROJECT NAME              
 
 Delani Studio
 
@@ -28,9 +28,10 @@ The technologies are ;
 
  :small_blue_diamond: FONT AWESOME ICONS
 
-## LINK TO VIEW SITE
+### LINK TO VIEW SITE
 
-## :telephone_receiver: CONTANCT INFORMATION
+
+### :telephone_receiver: CONTANCT INFORMATION
 
 Find me at wairimuapril@gmail.
 
