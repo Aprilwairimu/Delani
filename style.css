@@ -10,7 +10,7 @@ img {
 }
 
 .container-lg {
-    background-image: url("./Images/Foot Pic.jpeg");
+    background-image: url("./images/Backround/1_img.jpg");
     height: 800px;
     background-size: cover;
     background-position: center;
@@ -40,7 +40,7 @@ img {
 }
 
 .services {
-    background-image: url("./Images/Keyboard\ pic.jpeg");
+    background-image: url("./images/Backround/2_image.jpg");
     background-size: cover;
     color: #f5f5f5;
     display: flex;
@@ -96,7 +96,7 @@ img {
 }
 
 .contact {
-    background-image: url("./Images/Foot Pic.jpeg");
+    background-image: url("./images/Backround/3-image.jpg");
     height: 800px;
     background-size: cover;
     background-position: center;
