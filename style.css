@@ -3,126 +3,135 @@
     padding: 0;
     font-family: "Roboto", sans-serif;
 }
-.hero-content{
-    background-image: url("/images/Backround/1_img.jpg");
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding: 20px;
-    color: white;
-}
-.logo{
-padding: 30px;
-margin-top: 20px;
-}
-.h1{
-    font-size: 40px;
-    margin-bottom: 20px;
-}
-.h2{
-    margin-top: 60px;
-    line-height: 80px;
-}
-.p{font-size: 20px;
-
-}
-.mouse{
-    margin-top: 30px;
-}
-.about{
-   
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-size: 15px;
-  
-   
-}
-h1{
-    margin-top: 30px;
-    font-size: 30px;
-}
-.service{
-    background-image: url("/images/Backround/2_image.jpg"); 
-    
-}
-.h1{
-    margin-left: 30px;
-}
-.what{
-    margin-top: 30px;
-   height: 100vh;
-   width: 100%;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   padding: 10px;
-}
-.heading{
-    color: black;
-    font-size: 15px;
-    text-align: center;
-    padding-top: 50px;
-    }
-.column{
-    width:33.33%;
-    float:left;
-    text-align: center;
-    padding:50px;
-    box-sizing: border-box;
-    
-}
-.column img{
-    width: auto;
-    height: 100px;
-}
-.portfolio{
-    margin-left: 150px;
-    margin-right: 150px;
-    height: auto;
-    width: 100%;
-}
-.h1{
-  font-size: 40px;
-}
-
- .contact{
-    margin-top: 50px;
-    background-image: url("/images/Backround/3-image.jpg");
-    height: 80vh;
-    width: 100%;
-    color: white;
-    padding: 20px;
-    font-size: 50px;
-    
-}
-.h1{
-   
-}
  
- .icons{
-    margin-top: 30px;
-    margin-left: 500px;
+img {
+    height: 50px;
+    width: 50px;
+}
+
+.container-lg {
+    background-image: url("./Images/Foot Pic.jpeg");
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     align-items: center;
+    align-self: center;
+    color: #f5f5f5;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+.container-lg h1 {
+    font-size: 60px;
+}
+
+.container-md {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    align-self: center;
+    padding: 30px;
+    text-align: center;
+}
+
+.services {
+    background-image: url("./Images/Keyboard\ pic.jpeg");
+    background-size: cover;
+    color: #f5f5f5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+#what,
+#portfolio {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.what {
+    display: flex;
+    border: 10px solid green;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.what img {
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+    border: 20px solid blue;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.row-cols-4 {
+    padding-right: 20px;
+    border: 10px solid black;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+}
+
+.col {
+    padding: 0px;
+    border: 2px solid yellow;
+    margin: auto;
+}
+
+.portfolio {
+    margin: auto;
+    padding: 20px;
+}
+
+.contact {
+    background-image: url("./Images/Foot Pic.jpeg");
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin: auto;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#floatingTextarea {
+    height: 12em;
+}
+
+.footer i {
+    height: 20px;
+    width: 20px;
+    border: 2px blue solid;
     border-radius: 10px;
-    padding: 60px;
- }
-.footer{
-    margin-left: 200px;
-    font-size: 10px;
-    margin-top: 20px;
 }
-h1{
-    font-size: 15px;
+
+.delani {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
-h2{
-    font-size: 15px;
-    align-items: center;
-    margin-left: 30px;
-    
+
+.delani p {
+    margin: 0;
+    padding: 0;
 }
 
 
