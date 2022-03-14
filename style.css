@@ -52,6 +52,16 @@ img {
     text-align: center;
 }
 
+#part1{
+    display: none;
+}
+#part2{
+    display: none;
+}
+#part3{
+    display: none;
+}
+
 #what,
 #portfolio {
     align-items: center;
@@ -61,24 +71,31 @@ img {
 }
 
 .what {
-    display: flex;
-    border: 10px solid green;
-    justify-content: center;
-    flex-direction: row;
+    width: 80%;
+    margin: 0 auto;
+    
 }
 
 .what img {
     object-fit: cover;
     height: 50px;
     width: 50px;
-    border: 20px solid blue;
     align-items: center;
     justify-content: flex-start;
+   
+}
+.des h1{
+    font-size: 20px;
+}
+.dev h1{
+    font-size: 20px;
+}
+.pro h1{
+    font-size: 20px;
 }
 
 .row-cols-4 {
     padding-right: 20px;
-    border: 10px solid black;
     justify-content: center;
     align-content: center;
     margin: auto;
@@ -86,13 +103,19 @@ img {
 
 .col {
     padding: 0px;
-    border: 2px solid yellow;
     margin: auto;
 }
 
-.portfolio {
-    margin: auto;
-    padding: 20px;
+#portfolio {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   gap: 20px;
+   justify-content: space-between;
+   align-items: center;
+}
+#portfolio img{
+    width: 266px;
+    height: 200px;
 }
 
 .contact {
@@ -110,17 +133,22 @@ img {
     text-align: center;
     color: whitesmoke;
 }
-
-#floatingTextarea {
-    height: 12em;
-}
-
-.footer i {
-    height: 20px;
-    width: 20px;
-    border: 2px blue solid;
+#message{
+    height: 300px;
+    width: 900px;
     border-radius: 10px;
+    padding: 20px;
 }
+#button{
+border-radius: 5px;
+text-align: center;
+width: 300px;
+padding: 20px;
+background-color: black;
+border: none;
+color: white;
+}
+
 
 .delani {
     color: black;
