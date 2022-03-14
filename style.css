@@ -116,6 +116,7 @@ img {
 #portfolio img{
     width: 266px;
     height: 200px;
+    padding: 5px;
 }
 
 .contact {
