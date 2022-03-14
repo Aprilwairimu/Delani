@@ -30,6 +30,7 @@ The technologies are ;
 
 ### LINK TO VIEW SITE
 
+aprilwairimu.github.io/delani/
 
 ### :telephone_receiver: CONTANCT INFORMATION
 
