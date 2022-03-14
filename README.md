@@ -2,6 +2,10 @@
 
 Delani Studio
 
+### PROJECT PREVIEW
+
+![project preview](/images/screenshot/ Delani Studio.jpg)
+
 ### PROJECT DESCRIPTION
 
  This is a simple project that contains HTML,CSS,JAVASCRIPT AND JQUERY. This site responds through a pop whereby it returns a message.
