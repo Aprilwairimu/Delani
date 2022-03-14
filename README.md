@@ -4,7 +4,7 @@ Delani Studio
 
 ### PROJECT PREVIEW
 
-<img src="images/screenshot/Delani Studio.jpg">
+<img src="images/screenshot/Delani-Studio.jpg">
 
 ### PROJECT DESCRIPTION
 
