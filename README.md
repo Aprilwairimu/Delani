@@ -32,6 +32,10 @@ The technologies are ;
 
  :small_blue_diamond: FONT AWESOME ICONS
 
+### BDD
+
+This project is displayed by a form for entering certain information then returns a message of gratitude.
+ 
 ### LINK TO VIEW SITE
 
 https://aprilwairimu.github.io/delani/
