@@ -4,7 +4,7 @@ Delani Studio
 
 ### PROJECT PREVIEW
 
-![project preview](/images/screenshot/ Delani Studio.jpg)
+![project preview](images/screenshot/ Delani Studio.jpg)
 
 ### PROJECT DESCRIPTION
 
@@ -34,7 +34,7 @@ The technologies are ;
 
 ### LINK TO VIEW SITE
 
-aprilwairimu.github.io/delani/
+https://aprilwairimu.github.io/delani/
 
 ### :telephone_receiver: CONTANCT INFORMATION
 
