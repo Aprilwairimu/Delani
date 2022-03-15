@@ -113,10 +113,11 @@ img {
    justify-content: space-between;
    align-items: center;
 }
-#portfolio img{
+.portfolio img{
     width: 266px;
-    height: 200px;
+    height: 100%;
     padding: 5px;
+
 }
 
 .contact {
@@ -134,22 +135,51 @@ img {
     text-align: center;
     color: whitesmoke;
 }
+ 
+.inputs {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin-bottom: 20px;
+} 
+
+.input{
+    width: 400px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.input::placeholder{
+    color: white;
+}
+
 #message{
     height: 300px;
     width: 900px;
     border-radius: 10px;
     padding: 20px;
+    background-color: transparent;
+    border: 1px solid white;
 }
-#button{
-border-radius: 5px;
-text-align: center;
-width: 300px;
-padding: 20px;
-background-color: black;
-border: none;
-color: white;
+#message::placeholder{
+    color: white;
 }
 
+.submit{
+    padding: 15px 40px; 
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
+
+.icons img{
+    width: 60px;
+    height: 60px;
+}
 
 .delani {
     color: black;
