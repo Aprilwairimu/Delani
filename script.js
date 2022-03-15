@@ -17,13 +17,13 @@ $("document").ready(function(){
 
 
 
-$("form#form").on('submit',function(event){
-    event.preventDefault();
-    let name = $("input#name").val();
-    let email = $("input#email").val();
-    let message = $("textarea#message").val();
+$("#form").on('submit',function(event){
+    // event.preventDefault();
+    let name = $("#name").val();
+    let email = $("#email").val();
+    let message = $("#message").val();
 
-    if ($("input#name").val() && $("input#email").val()){
+    if (name && email){
         alert ("Hey " + name + ", Thanks for reaching out, we'll get back to you... have a great day!");
     }
     else {
